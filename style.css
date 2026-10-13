@@ -1,14 +1,14 @@
 
 body {
-    background-color: #f0f4f8;
+    background-color: wheat;
     font-family: Arial, sans-serif; 
     margin: 0; 
-    color: #333333; /* Dark gray text color */
+    color: red; /* Dark gray text color */
 }
 
 
 .header {
-    background-color: #2b6cb0; /* Deep blue background */
+    background-color: plum; /* Deep blue background */
     color: white; /* White text color */
     text-align: center; /* Centers the heading and paragraph text */
     padding: 40px; /* Adds space inside the box around the text */
